@@ -10,5 +10,7 @@ take you to the next line and would generate a.out executable file.
 ● Now, type &#39;a.out&#39; to run your program.
 
 ScreenShots
+
+
 ![Img1](https://github.com/Shreya1201/Mini-Hotel-Management-Project/assets/93670796/cc01fdc0-4a78-44d6-8145-bc4e44b82b3e)
 ![Img2](https://github.com/Shreya1201/Mini-Hotel-Management-Project/assets/93670796/670adc18-c293-463a-9b91-87c14406e532)
